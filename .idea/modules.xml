@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Acsmsdk.iml" filepath="$PROJECT_DIR$/Acsmsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acsmdemo/acsmdemo.iml" filepath="$PROJECT_DIR$/acsmdemo/acsmdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
